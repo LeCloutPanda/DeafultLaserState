@@ -1,5 +1,5 @@
 # DeafultLasterState
-[ResoniteModLoader(Not avaliable just yet)]() mod for [Resonite](https://resonite.com/) that lets you change the resolution of your finger photos.
+[ResoniteModLoader(Not avaliable just yet)]() mod for [Resonite](https://resonite.com/) that lets you set the default star of the laser upon spawning or loading into a world.
 
 # Installation
 1. Install [ResoniteModLoader(Not avaliable just yet)]().
