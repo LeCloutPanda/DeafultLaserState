@@ -9,6 +9,7 @@ namespace Default_Laser_State
         public override string Author => "LeCloutPanda";
         public override string Name => "Default Laser State";
         public override string Version => "1.0.0";
+        public override string Link => "https://github.com/LeCloutPanda/DeafultLaserState/";
 
         public static ModConfiguration config;
         [AutoRegisterConfigKey] public static ModConfigurationKey<bool> ENABLED = new ModConfigurationKey<bool>("Default state", "What state will the lasers have", () => true);
